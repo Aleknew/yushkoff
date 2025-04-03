@@ -38,10 +38,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Restore products.json
-        uses: actions/download-artifact@v3
-        with:
-          name: products
+      - name: Ensure products.json exists
+        run: |
+          if [ ! -f products.json ]; then
+            echo '[]' > products.json  # Создаем пустой файл, если его нет
+          fi
           
       - name: Run Scraper
         run: python parse.py  # Запуск скрипта
