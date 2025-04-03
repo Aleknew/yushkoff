@@ -48,7 +48,7 @@ jobs:
         run: python parse.py  # Запуск скрипта
 
       - name: Save products.json as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: products
           path: products.json
