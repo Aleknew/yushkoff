@@ -1,9 +1,2 @@
 requests
 beautifulsoup4
-ssl
-re
-json
-os
-smtplib
-text
-multipart
