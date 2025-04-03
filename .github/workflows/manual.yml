@@ -43,19 +43,12 @@ jobs:
         run: python parse.py  # Запуск скрипта
 
 
-      - name: Commit and Push results
+      - name: Push changes
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          
-          if [ -f products.json ]; then
-            git add products.json
-            git commit -m "Update products.json" || echo "No changes to commit"
-      
-            # Добавляем токен для аутентификации
-            git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Aleknew/yushkoff.git
-            git push
-          else
-            echo "Файл products.json не найден, пропускаем коммит."
-          fi
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Aleknew/yushkoff.git
+          git add products.json
+          git commit -m "Update products.json" || echo "No changes to commit"
+          git push
 
