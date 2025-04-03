@@ -45,6 +45,12 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add output.json
-          git commit -m "Update data" || echo "No changes to commit"
-          git push
+          
+          if [ -f output.json ]; then  # Проверяем, есть ли файл
+            git add output.json
+            git commit -m "Update data" || echo "No changes to commit"
+            git push
+          else
+            echo "output.json не найден, пропускаем коммит."
+          fi
+
