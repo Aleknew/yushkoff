@@ -38,17 +38,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-
+      - name: Restore products.json
+        uses: actions/download-artifact@v3
+        with:
+          name: products
+          
       - name: Run Scraper
         run: python parse.py  # Запуск скрипта
 
-
-      - name: Push changes
-        run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Aleknew/yushkoff.git
-          git add products.json
-          git commit -m "Update products.json" || echo "No changes to commit"
-          git push
+      - name: Save products.json as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: products
+          path: products.json
 
