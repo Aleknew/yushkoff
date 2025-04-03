@@ -10,7 +10,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-DATA_FILE='products.json'
+DATA_FILE='/persistent/products.json'
 
 def load_previous_data():
     """Загружаем сохраненные данные"""
