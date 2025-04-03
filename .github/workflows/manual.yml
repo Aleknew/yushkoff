@@ -51,6 +51,9 @@ jobs:
           if [ -f products.json ]; then
             git add products.json
             git commit -m "Update products.json" || echo "No changes to commit"
+      
+            # Добавляем токен для аутентификации
+            git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/your-username/your-repo.git
             git push
           else
             echo "Файл products.json не найден, пропускаем коммит."
