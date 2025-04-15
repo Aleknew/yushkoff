@@ -153,6 +153,17 @@
         "5XL",
         "6XL"
     ],
+    "Siberian Ethno Артикул: TDT 031": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Troll Артикул: TDT 117": [
         "S",
         "M",
@@ -269,17 +280,6 @@
         "5XL"
     ],
     "Magic Turtle Артикул: TDT 107": [
-        "6XL"
-    ],
-    "Siberian Ethno Артикул: TDT 031": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
         "6XL"
     ]
 }
