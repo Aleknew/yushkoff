@@ -10,6 +10,17 @@
         "5XL",
         "6XL"
     ],
+    "Troll Артикул: TDT 117": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Chile Art Артикул: TDT 102": [
         "S",
         "M",
@@ -175,8 +186,7 @@
         "5XL",
         "6XL"
     ],
-    "Troll Артикул: TDT 117": [
-        "S",
+    "Aboriginal Frog Артикул: TDT 067": [
         "M",
         "L",
         "XL",
@@ -186,12 +196,11 @@
         "5XL",
         "6XL"
     ],
-    "Aboriginal Frog Артикул: TDT 067": [
+    "Snake Артикул: TDT 116": [
         "M",
         "L",
         "XL",
         "2XL",
-        "3XL",
         "4XL",
         "5XL",
         "6XL"
@@ -206,15 +215,6 @@
         "6XL"
     ],
     "Mother Russia Артикул: TDT 065": [
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Snake Артикул: TDT 116": [
         "M",
         "L",
         "XL",
@@ -249,17 +249,17 @@
         "L",
         "2XL"
     ],
+    "Evil Clown Артикул: TDT 033": [
+        "M",
+        "L",
+        "XL"
+    ],
     "Lizard Артикул: TDW 024": [
         "XS",
         "M",
         "L"
     ],
     "Bulldog Артикул: TDT 092": [
-        "M",
-        "L",
-        "XL"
-    ],
-    "Evil Clown Артикул: TDT 033": [
         "M",
         "L",
         "XL"
@@ -283,6 +283,17 @@
     "Bull Terrier Артикул: TDT 029 ": [
         "M",
         "4XL"
+    ],
+    "Rock Art Артикул: TDT 012": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
     ],
     "Lizard Артикул: TDT 024": [
         "5XL"
