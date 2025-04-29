@@ -10,17 +10,6 @@
         "5XL",
         "6XL"
     ],
-    "Picnic Артикул: TDT 115": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Rock Art Артикул: TDT 012": [
         "S",
         "M",
@@ -54,17 +43,6 @@
         "5XL",
         "6XL"
     ],
-    "Rock Shark Артикул: TDT 015": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Aboriginal Straya Артикул: TDT 060": [
         "S",
         "M",
@@ -87,7 +65,7 @@
         "5XL",
         "6XL"
     ],
-    "Brutal Kangaroo Артикул: TDT 017": [
+    "Rock Shark Артикул: TDT 015": [
         "S",
         "M",
         "L",
@@ -120,7 +98,7 @@
         "5XL",
         "6XL"
     ],
-    "Yin Yang Артикул: TDT 018": [
+    "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
         "L",
@@ -132,6 +110,17 @@
         "6XL"
     ],
     "Stone Spider Артикул: TDT 124": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Yin Yang Артикул: TDT 018": [
         "S",
         "M",
         "L",
@@ -197,7 +186,8 @@
         "5XL",
         "6XL"
     ],
-    "Aboriginal Frog Артикул: TDT 067": [
+    "Picnic Артикул: TDT 115": [
+        "S",
         "M",
         "L",
         "XL",
@@ -207,7 +197,8 @@
         "5XL",
         "6XL"
     ],
-    "Good morning Артикул: TDT 114": [
+    "Aboriginal Frog Артикул: TDT 067": [
+        "M",
         "L",
         "XL",
         "2XL",
@@ -234,6 +225,15 @@
         "5XL",
         "6XL"
     ],
+    "Good morning Артикул: TDT 114": [
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Gremlin Артикул: TDT 111": [
         "M",
         "L",
@@ -254,15 +254,15 @@
         "L",
         "XL"
     ],
-    "Evil Clown Артикул: TDT 033": [
-        "M",
-        "L",
-        "XL"
-    ],
     "Lizard Артикул: TDW 024": [
         "XS",
         "M",
         "L"
+    ],
+    "Evil Clown Артикул: TDT 033": [
+        "M",
+        "L",
+        "XL"
     ],
     "Bruin Артикул: TDT 043": [
         "M",
@@ -275,9 +275,6 @@
     "Aboriginal Shark Артикул: TDT 028": [
         "5XL",
         "6XL"
-    ],
-    "Lizard Артикул: TDT 024": [
-        "5XL"
     ],
     "Magic Turtle Артикул: TDT 107": [
         "6XL"
