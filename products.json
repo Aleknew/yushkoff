@@ -10,61 +10,6 @@
         "5XL",
         "6XL"
     ],
-    "Rock Art Артикул: TDT 012": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Australasia Артикул: TDT 053": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Bear Attack Артикул: TDT 062": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Aboriginal Straya Артикул: TDT 060": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Frog in Mushrooms Артикул: TDT 108": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Wolf Артикул: TDT 085": [
         "S",
         "M",
@@ -76,62 +21,18 @@
         "5XL",
         "6XL"
     ],
-    "White Stone Empire Артикул: TDT 120": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Brutal Kangaroo Артикул: TDT 017": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Stone Spider Артикул: TDT 124": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Yin Yang Артикул: TDT 018": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Siberian Wolf Артикул: TDT 119": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Troll Артикул: TDT 117": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Rock Art Артикул: TDT 012": [
         "S",
         "M",
         "L",
@@ -164,7 +65,7 @@
         "5XL",
         "6XL"
     ],
-    "Siberian Ethno Артикул: TDT 031": [
+    "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
         "L",
@@ -176,6 +77,105 @@
         "6XL"
     ],
     "Picnic Артикул: TDT 115": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Yin Yang Артикул: TDT 018": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Siberian Ethno Артикул: TDT 031": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Bear Attack Артикул: TDT 062": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Frog in Mushrooms Артикул: TDT 108": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "White Stone Empire Артикул: TDT 120": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Australasia Артикул: TDT 053": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Stone Spider Артикул: TDT 124": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Aboriginal Straya Артикул: TDT 060": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Siberian Wolf Артикул: TDT 119": [
         "S",
         "M",
         "L",
@@ -205,26 +205,7 @@
         "5XL",
         "6XL"
     ],
-    "Gremlin Артикул: TDT 111": [
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL"
-    ],
-    "Sharkbait Артикул: TDT 014": [
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Rock Shark Артикул: TDT 015": [
-        "M",
-        "L",
-        "XL"
-    ],
-    "Goblin Артикул: TDT 022": [
         "M",
         "L",
         "XL"
@@ -234,31 +215,23 @@
         "M",
         "L"
     ],
+    "Goblin Артикул: TDT 022": [
+        "M",
+        "L",
+        "XL"
+    ],
     "Evil Clown Артикул: TDT 033": [
         "M",
         "L",
         "XL"
     ],
-    "Bruin Артикул: TDT 043": [
-        "M",
-        "L"
-    ],
     "Orc Warrior Артикул: TDT 089": [
         "M",
         "L"
     ],
-    "Aboriginal Shark Артикул: TDT 028": [
-        "5XL",
-        "6XL"
-    ],
-    "Mother Russia Артикул: TDT 065": [
-        "6XL"
-    ],
-    "Magic Turtle Артикул: TDT 107": [
-        "6XL"
-    ],
-    "Bull Terrier Артикул: TDT 029 ": [
-        "4XL"
+    "Bruin Артикул: TDT 043": [
+        "M",
+        "L"
     ],
     "Good morning Артикул: TDT 114": [
         "5XL"
