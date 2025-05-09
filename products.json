@@ -21,7 +21,7 @@
         "5XL",
         "6XL"
     ],
-    "Chile Art Артикул: TDT 102": [
+    "Worthies Артикул: TDT 123": [
         "S",
         "M",
         "L",
@@ -33,17 +33,6 @@
         "6XL"
     ],
     "Rock Art Артикул: TDT 012": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Worthies Артикул: TDT 123": [
         "S",
         "M",
         "L",
@@ -98,7 +87,7 @@
         "5XL",
         "6XL"
     ],
-    "Siberian Ethno Артикул: TDT 031": [
+    "Frog in Mushrooms Артикул: TDT 108": [
         "S",
         "M",
         "L",
@@ -109,7 +98,7 @@
         "5XL",
         "6XL"
     ],
-    "Frog in Mushrooms Артикул: TDT 108": [
+    "Siberian Ethno Артикул: TDT 031": [
         "S",
         "M",
         "L",
@@ -142,6 +131,17 @@
         "5XL",
         "6XL"
     ],
+    "Siberian Wolf Артикул: TDT 119": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Australasia Артикул: TDT 053": [
         "S",
         "M",
@@ -153,7 +153,7 @@
         "5XL",
         "6XL"
     ],
-    "Siberian Wolf Артикул: TDT 119": [
+    "Troll Артикул: TDT 117": [
         "S",
         "M",
         "L",
@@ -175,7 +175,7 @@
         "5XL",
         "6XL"
     ],
-    "Troll Артикул: TDT 117": [
+    "Chile Art Артикул: TDT 102": [
         "S",
         "M",
         "L",
@@ -223,8 +223,5 @@
     "Bruin Артикул: TDT 043": [
         "M",
         "L"
-    ],
-    "Good morning Артикул: TDT 114": [
-        "5XL"
     ]
 }
