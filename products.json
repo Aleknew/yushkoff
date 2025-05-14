@@ -54,6 +54,17 @@
         "5XL",
         "6XL"
     ],
+    "Siberian Token Артикул: TDT 122": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
@@ -222,16 +233,5 @@
     "Bruin Артикул: TDT 043": [
         "M",
         "L"
-    ],
-    "Siberian Token Артикул: TDT 122": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
     ]
 }
