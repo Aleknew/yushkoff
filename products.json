@@ -1,15 +1,4 @@
 {
-    "Aboriginal DreamTime Артикул: TDT 007": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Siberian Token Артикул: TDT 122": [
         "S",
         "M",
@@ -83,15 +72,6 @@
         "XL",
         "2XL",
         "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Yin Yang Артикул: TDT 018": [
-        "M",
-        "L",
-        "XL",
-        "2XL",
         "4XL",
         "5XL",
         "6XL"
@@ -184,21 +164,21 @@
         "5XL",
         "6XL"
     ],
-    "Picnic Артикул: TDT 115": [
-        "S",
+    "Aboriginal DreamTime Артикул: TDT 007": [
         "M",
         "L",
         "XL",
+        "2XL",
         "3XL",
         "4XL",
         "5XL",
         "6XL"
     ],
     "Aboriginal Frog Артикул: TDT 067": [
+        "S",
         "M",
         "L",
         "XL",
-        "2XL",
         "3XL",
         "4XL",
         "5XL",
@@ -210,6 +190,25 @@
         "XL",
         "2XL",
         "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Picnic Артикул: TDT 115": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Yin Yang Артикул: TDT 018": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
         "4XL",
         "5XL",
         "6XL"
