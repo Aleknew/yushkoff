@@ -1,5 +1,5 @@
 {
-    "Yaga Артикул: TDT 121": [
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -11,17 +11,6 @@
         "6XL"
     ],
     "Rock Art Артикул: TDT 012": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -153,6 +142,17 @@
         "5XL",
         "6XL"
     ],
+    "Yaga Артикул: TDT 121": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Aboriginal DreamTime Артикул: TDT 007": [
         "M",
         "L",
@@ -207,20 +207,15 @@
         "5XL",
         "6XL"
     ],
-    "Lizard Артикул: TDW 024": [
-        "XS",
-        "M",
-        "L"
-    ],
-    "Rock Shark Артикул: TDT 015": [
-        "M",
-        "L",
-        "XL"
-    ],
     "Goblin Артикул: TDT 022": [
         "M",
         "L",
         "XL"
+    ],
+    "Lizard Артикул: TDW 024": [
+        "XS",
+        "M",
+        "L"
     ],
     "Bruin Артикул: TDT 043": [
         "M"
