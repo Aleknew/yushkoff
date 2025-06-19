@@ -1,15 +1,4 @@
 {
-    "Rock Art Артикул: TDT 012": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Yaga Артикул: TDT 121": [
         "S",
         "M",
@@ -21,7 +10,7 @@
         "5XL",
         "6XL"
     ],
-    "Bear Attack Артикул: TDT 062": [
+    "Rock Art Артикул: TDT 012": [
         "S",
         "M",
         "L",
@@ -33,6 +22,17 @@
         "6XL"
     ],
     "Summer Shark Артикул: TDT 087": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Bear Attack Артикул: TDT 062": [
         "S",
         "M",
         "L",
@@ -132,17 +132,6 @@
         "6XL"
     ],
     "Aboriginal Straya Артикул: TDT 060": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Worthies Артикул: TDT 123": [
         "S",
         "M",
         "L",
