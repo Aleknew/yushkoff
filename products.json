@@ -43,15 +43,6 @@
         "5XL",
         "6XL"
     ],
-    "Frog in Mushrooms Артикул: TDT 108": [
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "White Stone Empire Артикул: TDT 120": [
         "S",
         "M",
@@ -65,16 +56,6 @@
     ],
     "Stone Spider Артикул: TDT 124": [
         "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Siberian Ethno Артикул: TDT 031": [
         "M",
         "L",
         "XL",
@@ -150,19 +131,21 @@
         "5XL",
         "6XL"
     ],
-    "Aboriginal DreamTime Артикул: TDT 007": [
-        "M",
-        "L",
-        "XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Aboriginal Frog Артикул: TDT 067": [
         "S",
         "M",
         "L",
         "XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Siberian Ethno Артикул: TDT 031": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
         "3XL",
         "4XL",
         "5XL",
@@ -178,8 +161,25 @@
         "5XL",
         "6XL"
     ],
+    "Frog in Mushrooms Артикул: TDT 108": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Siberian Token Артикул: TDT 122": [
         "S",
+        "M",
+        "L",
+        "XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Aboriginal DreamTime Артикул: TDT 007": [
         "M",
         "L",
         "XL",
