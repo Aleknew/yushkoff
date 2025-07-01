@@ -1,5 +1,5 @@
 {
-    "Summer Shark Артикул: TDT 087": [
+    "Yaga Артикул: TDT 121": [
         "S",
         "M",
         "L",
@@ -21,7 +21,7 @@
         "5XL",
         "6XL"
     ],
-    "Bear Attack Артикул: TDT 062": [
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -33,6 +33,17 @@
         "6XL"
     ],
     "Brutal Kangaroo Артикул: TDT 017": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Bear Attack Артикул: TDT 062": [
         "S",
         "M",
         "L",
@@ -55,6 +66,17 @@
         "6XL"
     ],
     "Stone Spider Артикул: TDT 124": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Chilbigen Артикул: TDT 034": [
         "S",
         "M",
         "L",
@@ -110,17 +132,6 @@
         "6XL"
     ],
     "Wolf Артикул: TDT 085": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Yaga Артикул: TDT 121": [
         "S",
         "M",
         "L",
@@ -202,15 +213,15 @@
         "5XL",
         "6XL"
     ],
-    "Goblin Артикул: TDT 022": [
-        "M",
-        "L",
-        "XL"
-    ],
     "Lizard Артикул: TDW 024": [
         "XS",
         "M",
         "L"
+    ],
+    "Goblin Артикул: TDT 022": [
+        "M",
+        "L",
+        "XL"
     ],
     "Bruin Артикул: TDT 043": [
         "M"
