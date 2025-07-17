@@ -32,7 +32,7 @@
         "5XL",
         "6XL"
     ],
-    "Bear Attack Артикул: TDT 062": [
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -43,7 +43,7 @@
         "5XL",
         "6XL"
     ],
-    "Summer Shark Артикул: TDT 087": [
+    "Bear Attack Артикул: TDT 062": [
         "S",
         "M",
         "L",
@@ -76,27 +76,8 @@
         "5XL",
         "6XL"
     ],
-    "Stone Spider Артикул: TDT 124": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Siberian Wolf Артикул: TDT 119": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
+        "M"
     ],
     "Aboriginal Straya Артикул: TDT 060": [
         "S",
@@ -228,6 +209,17 @@
     ],
     "Worthies Артикул: TDT 123": [
         "2XL"
+    ],
+    "Mother Russia Артикул: TDT 065": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
     ],
     "Colors of Siberia Артикул: TDT 103": [
         "M"
