@@ -10,6 +10,17 @@
         "5XL",
         "6XL"
     ],
+    "Mother Russia Артикул: TDT 065": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
@@ -75,9 +86,6 @@
         "4XL",
         "5XL",
         "6XL"
-    ],
-    "Siberian Wolf Артикул: TDT 119": [
-        "M"
     ],
     "Aboriginal Straya Артикул: TDT 060": [
         "S",
@@ -210,21 +218,13 @@
     "Worthies Артикул: TDT 123": [
         "2XL"
     ],
-    "Mother Russia Артикул: TDT 065": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Colors of Siberia Артикул: TDT 103": [
         "M"
     ],
     "Bruin Артикул: TDT 043": [
+        "M"
+    ],
+    "Siberian Wolf Артикул: TDT 119": [
         "M"
     ]
 }
