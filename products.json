@@ -1,26 +1,4 @@
 {
-    "Wolf Артикул: TDT 085": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Chile Art Артикул: TDT 102": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Rock Art Артикул: TDT 012": [
         "S",
         "M",
@@ -54,7 +32,7 @@
         "5XL",
         "6XL"
     ],
-    "Bull Terrier Артикул: TDT 029 ": [
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -65,7 +43,7 @@
         "5XL",
         "6XL"
     ],
-    "Summer Shark Артикул: TDT 087": [
+    "Bull Terrier Артикул: TDT 029 ": [
         "S",
         "M",
         "L",
@@ -98,7 +76,7 @@
         "5XL",
         "6XL"
     ],
-    "Chilbigen Артикул: TDT 034": [
+    "Armour Артикул: TDT 128": [
         "S",
         "M",
         "L",
@@ -109,7 +87,7 @@
         "5XL",
         "6XL"
     ],
-    "Armour Артикул: TDT 128": [
+    "Chilbigen Артикул: TDT 034": [
         "S",
         "M",
         "L",
@@ -154,6 +132,28 @@
         "6XL"
     ],
     "Troll Артикул: TDT 117": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Wolf Артикул: TDT 085": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Chile Art Артикул: TDT 102": [
         "S",
         "M",
         "L",
@@ -220,14 +220,6 @@
         "5XL",
         "6XL"
     ],
-    "Australasia Артикул: TDT 053": [
-        "M",
-        "L",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Yin Yang Артикул: TDT 018": [
         "M",
         "L",
@@ -241,15 +233,15 @@
         "L",
         "XL"
     ],
-    "Goblin Артикул: TDT 022": [
-        "M",
-        "L",
-        "XL"
-    ],
     "Lizard Артикул: TDW 024": [
         "XS",
         "M",
         "L"
+    ],
+    "Goblin Артикул: TDT 022": [
+        "M",
+        "L",
+        "XL"
     ],
     "Orc Warrior Артикул: TDT 089": [
         "M"
