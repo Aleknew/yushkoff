@@ -1,26 +1,4 @@
 {
-    "Dragon Артикул: TDT 096": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Rock Art Артикул: TDT 012": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Magic Lizard Артикул: TDT 112": [
         "S",
         "M",
@@ -43,7 +21,7 @@
         "5XL",
         "6XL"
     ],
-    "Brutal Kangaroo Артикул: TDT 017": [
+    "Rock Art Артикул: TDT 012": [
         "S",
         "M",
         "L",
@@ -55,6 +33,17 @@
         "6XL"
     ],
     "Summer Shark Артикул: TDT 087": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
         "L",
@@ -87,17 +76,6 @@
         "5XL",
         "6XL"
     ],
-    "Bull Terrier Артикул: TDT 029 ": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Bear Attack Артикул: TDT 062": [
         "S",
         "M",
@@ -110,6 +88,17 @@
         "6XL"
     ],
     "Crocodile Dundee Артикул: TDT 125": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Bull Terrier Артикул: TDT 029 ": [
         "S",
         "M",
         "L",
@@ -197,11 +186,22 @@
         "5XL",
         "6XL"
     ],
-    "Siberian Token Артикул: TDT 122": [
+    "Dragon Артикул: TDT 096": [
         "S",
         "M",
         "L",
         "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Frog in Mushrooms Артикул: TDT 108": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
         "4XL",
         "5XL",
         "6XL"
@@ -215,29 +215,20 @@
         "4XL",
         "5XL"
     ],
-    "Frog in Mushrooms Артикул: TDT 108": [
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Anubis Артикул: TDT 032": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Picnic Артикул: TDT 115": [
         "M",
         "L",
         "XL",
         "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Siberian Token Артикул: TDT 122": [
+        "S",
+        "M",
+        "L",
+        "XL",
         "4XL",
         "5XL",
         "6XL"
@@ -273,14 +264,14 @@
         "5XL",
         "6XL"
     ],
-    "Goblin Артикул: TDT 022": [
-        "M",
-        "L",
-        "XL"
-    ],
     "Lizard Артикул: TDW 024": [
         "XS",
         "M",
         "L"
+    ],
+    "Goblin Артикул: TDT 022": [
+        "M",
+        "L",
+        "XL"
     ]
 }
