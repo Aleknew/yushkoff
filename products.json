@@ -32,17 +32,6 @@
         "5XL",
         "6XL"
     ],
-    "Yaga Артикул: TDT 121": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Sharkbait Артикул: TDT 014": [
         "S",
         "M",
@@ -54,7 +43,7 @@
         "5XL",
         "6XL"
     ],
-    "Summer Shark Артикул: TDT 087": [
+    "Yaga Артикул: TDT 121": [
         "S",
         "M",
         "L",
@@ -87,7 +76,7 @@
         "5XL",
         "6XL"
     ],
-    "Armour Артикул: TDT 128": [
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -109,7 +98,7 @@
         "5XL",
         "6XL"
     ],
-    "Crocodile Dundee Артикул: TDT 125": [
+    "Armour Артикул: TDT 128": [
         "S",
         "M",
         "L",
@@ -131,7 +120,7 @@
         "5XL",
         "6XL"
     ],
-    "Lion in Dreadlocks Артикул: TDT 110": [
+    "Crocodile Dundee Артикул: TDT 125": [
         "S",
         "M",
         "L",
@@ -153,7 +142,7 @@
         "5XL",
         "6XL"
     ],
-    "Old Salt Артикул: TDT 129": [
+    "Lion in Dreadlocks Артикул: TDT 110": [
         "S",
         "M",
         "L",
@@ -175,7 +164,18 @@
         "5XL",
         "6XL"
     ],
-    "Troll Артикул: TDT 117": [
+    "Stone Spider Артикул: TDT 124": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Old Salt Артикул: TDT 129": [
         "S",
         "M",
         "L",
@@ -197,7 +197,7 @@
         "5XL",
         "6XL"
     ],
-    "Chile Art Артикул: TDT 102": [
+    "Troll Артикул: TDT 117": [
         "S",
         "M",
         "L",
@@ -214,6 +214,26 @@
         "L",
         "XL",
         "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Chile Art Артикул: TDT 102": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Picnic Артикул: TDT 115": [
+        "M",
+        "L",
+        "XL",
         "3XL",
         "4XL",
         "5XL",
@@ -245,15 +265,6 @@
         "3XL",
         "4XL",
         "5XL"
-    ],
-    "Picnic Артикул: TDT 115": [
-        "M",
-        "L",
-        "XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
     ],
     "Aboriginal DreamTime Артикул: TDT 007": [
         "M",
