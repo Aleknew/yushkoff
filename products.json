@@ -186,6 +186,17 @@
         "5XL",
         "6XL"
     ],
+    "Wood Goblin Артикул: TDT 118": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Aboriginal Straya Артикул: TDT 060": [
         "S",
         "M",
@@ -295,16 +306,5 @@
         "M",
         "L",
         "XL"
-    ],
-    "Wood Goblin Артикул: TDT 118": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
     ]
 }
