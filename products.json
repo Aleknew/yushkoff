@@ -1,13 +1,4 @@
 {
-    "Wolf Артикул: TDT 085": [
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL"
-    ],
     "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
@@ -239,12 +230,14 @@
         "5XL",
         "6XL"
     ],
-    "Frog in Mushrooms Артикул: TDT 108": [
+    "Wolf Артикул: TDT 085": [
+        "M",
         "L",
         "XL",
+        "2XL",
         "3XL",
-        "5XL",
-        "6XL"
+        "4XL",
+        "5XL"
     ],
     "Siberian Ethno Артикул: TDT 031": [
         "M",
@@ -264,12 +257,6 @@
         "5XL",
         "6XL"
     ],
-    "Aboriginal DreamTime Артикул: TDT 007": [
-        "M",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Mother Russia Артикул: TDT 065": [
         "S",
         "M",
@@ -286,8 +273,17 @@
         "2XL",
         "3XL"
     ],
-    "Yin Yang Артикул: TDT 018": [
+    "Frog in Mushrooms Артикул: TDT 108": [
         "L",
+        "XL",
+        "3XL",
+        "5XL",
+        "6XL"
+    ],
+    "Aboriginal DreamTime Артикул: TDT 007": [
+        "M",
+        "4XL",
+        "5XL",
         "6XL"
     ],
     "Lizard Артикул: TDW 024": [
@@ -299,5 +295,9 @@
         "M",
         "L",
         "XL"
+    ],
+    "Yin Yang Артикул: TDT 018": [
+        "L",
+        "6XL"
     ]
 }
