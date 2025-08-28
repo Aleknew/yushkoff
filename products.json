@@ -228,15 +228,6 @@
         "4XL",
         "5XL"
     ],
-    "Siberian Token Артикул: TDT 122": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "5XL",
-        "6XL"
-    ],
     "Wolf Артикул: TDT 085": [
         "M",
         "L",
@@ -262,6 +253,14 @@
         "2XL",
         "3XL"
     ],
+    "Siberian Token Артикул: TDT 122": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "5XL",
+        "6XL"
+    ],
     "Frog in Mushrooms Артикул: TDT 108": [
         "L",
         "XL",
@@ -275,18 +274,17 @@
         "5XL",
         "6XL"
     ],
-    "White Rabbit Артикул: TDT 135": [
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
     "Lizard Артикул: TDW 024": [
         "XS",
         "M",
         "L"
     ],
     "Goblin Артикул: TDT 022": [
+        "M",
+        "L",
+        "XL"
+    ],
+    "White Rabbit Артикул: TDT 135": [
         "M",
         "L",
         "XL"
