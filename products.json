@@ -120,17 +120,6 @@
         "5XL",
         "6XL"
     ],
-    "Troll Артикул: TDT 117": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Relaxed Bear Артикул: TDT 082": [
         "S",
         "M",
@@ -253,19 +242,10 @@
         "2XL",
         "3XL"
     ],
-    "Siberian Token Артикул: TDT 122": [
-        "S",
+    "Troll Артикул: TDT 117": [
         "M",
-        "L",
-        "XL",
-        "2XL",
-        "5XL",
-        "6XL"
-    ],
-    "Frog in Mushrooms Артикул: TDT 108": [
-        "L",
-        "XL",
         "3XL",
+        "4XL",
         "5XL",
         "6XL"
     ],
@@ -273,6 +253,18 @@
         "M",
         "4XL",
         "5XL",
+        "6XL"
+    ],
+    "Frog in Mushrooms Артикул: TDT 108": [
+        "L",
+        "XL",
+        "5XL",
+        "6XL"
+    ],
+    "Siberian Token Артикул: TDT 122": [
+        "S",
+        "M",
+        "L",
         "6XL"
     ],
     "Lizard Артикул: TDW 024": [
