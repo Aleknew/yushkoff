@@ -1,5 +1,49 @@
 {
+    "Wood Goblin Артикул: TDT 118": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Sharkbait Артикул: TDT 014": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Yaga Артикул: TDT 121": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Brutal Kangaroo Артикул: TDT 017": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -21,7 +65,7 @@
         "5XL",
         "6XL"
     ],
-    "Brutal Kangaroo Артикул: TDT 017": [
+    "Bull Terrier Артикул: TDT 029 ": [
         "S",
         "M",
         "L",
@@ -65,6 +109,17 @@
         "5XL",
         "6XL"
     ],
+    "Chilbigen Артикул: TDT 034": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "White Stone Empire Артикул: TDT 120": [
         "S",
         "M",
@@ -87,7 +142,7 @@
         "5XL",
         "6XL"
     ],
-    "Bull Terrier Артикул: TDT 029 ": [
+    "Vibe Артикул: TDT 052": [
         "S",
         "M",
         "L",
@@ -131,7 +186,7 @@
         "5XL",
         "6XL"
     ],
-    "Chilbigen Артикул: TDT 034": [
+    "Aboriginal Straya Артикул: TDT 060": [
         "S",
         "M",
         "L",
@@ -153,62 +208,7 @@
         "5XL",
         "6XL"
     ],
-    "Wood Goblin Артикул: TDT 118": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Vibe Артикул: TDT 052": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Aboriginal Straya Артикул: TDT 060": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Yaga Артикул: TDT 121": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Summer Shark Артикул: TDT 087": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Siberian Ethno Артикул: TDT 031": [
+    "Wolf Артикул: TDT 085": [
         "M",
         "L",
         "XL",
@@ -217,7 +217,7 @@
         "4XL",
         "5XL"
     ],
-    "Wolf Артикул: TDT 085": [
+    "Siberian Ethno Артикул: TDT 031": [
         "M",
         "L",
         "XL",
@@ -255,29 +255,62 @@
         "5XL",
         "6XL"
     ],
-    "Frog in Mushrooms Артикул: TDT 108": [
-        "L",
-        "XL",
-        "5XL",
-        "6XL"
-    ],
     "Siberian Token Артикул: TDT 122": [
         "S",
         "M",
         "L",
         "6XL"
     ],
-    "Lizard Артикул: TDW 024": [
-        "XS",
-        "M",
-        "L"
+    "Frog in Mushrooms Артикул: TDT 108": [
+        "L",
+        "XL",
+        "5XL",
+        "6XL"
     ],
     "Goblin Артикул: TDT 022": [
         "M",
         "L",
         "XL"
     ],
+    "Lizard Артикул: TDW 024": [
+        "XS",
+        "M",
+        "L"
+    ],
+    "Oktoberfest Артикул: TDT 104": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Yin Yang Артикул: TDT 018": [
+        "6XL"
+    ],
+    "Colors of Siberia Артикул: TDT 103": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "WeekEnd Артикул: TDT 047": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
         "6XL"
     ]
 }
