@@ -21,6 +21,17 @@
         "5XL",
         "6XL"
     ],
+    "Oktoberfest Артикул: TDT 104": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Yaga Артикул: TDT 121": [
         "S",
         "M",
@@ -44,6 +55,17 @@
         "6XL"
     ],
     "Summer Shark Артикул: TDT 087": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Colors of Siberia Артикул: TDT 103": [
         "S",
         "M",
         "L",
@@ -175,6 +197,17 @@
         "5XL",
         "6XL"
     ],
+    "WeekEnd Артикул: TDT 047": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Relaxed Bear Артикул: TDT 082": [
         "S",
         "M",
@@ -277,40 +310,7 @@
         "M",
         "L"
     ],
-    "Oktoberfest Артикул: TDT 104": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Yin Yang Артикул: TDT 018": [
-        "6XL"
-    ],
-    "Colors of Siberia Артикул: TDT 103": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "WeekEnd Артикул: TDT 047": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
         "6XL"
     ]
 }
