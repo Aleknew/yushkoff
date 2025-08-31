@@ -1,4 +1,37 @@
 {
+    "Relaxed Bear Артикул: TDT 082": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Aboriginal Straya Артикул: TDT 060": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Chile Art Артикул: TDT 102": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Wood Goblin Артикул: TDT 118": [
         "S",
         "M",
@@ -208,39 +241,6 @@
         "5XL",
         "6XL"
     ],
-    "Relaxed Bear Артикул: TDT 082": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Aboriginal Straya Артикул: TDT 060": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Chile Art Артикул: TDT 102": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "Wolf Артикул: TDT 085": [
         "M",
         "L",
@@ -309,6 +309,17 @@
         "XS",
         "M",
         "L"
+    ],
+    "Oz Aboriginal Артикул: TDT 001": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
     ],
     "Yin Yang Артикул: TDT 018": [
         "6XL"
