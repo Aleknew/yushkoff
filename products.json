@@ -10,7 +10,7 @@
         "5XL",
         "6XL"
     ],
-    "Relaxed Bear Артикул: TDT 082": [
+    "Wood Goblin Артикул: TDT 118": [
         "S",
         "M",
         "L",
@@ -22,28 +22,6 @@
         "6XL"
     ],
     "Aboriginal Straya Артикул: TDT 060": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Chile Art Артикул: TDT 102": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Wood Goblin Артикул: TDT 118": [
         "S",
         "M",
         "L",
@@ -76,7 +54,7 @@
         "5XL",
         "6XL"
     ],
-    "Brutal Kangaroo Артикул: TDT 017": [
+    "Summer Shark Артикул: TDT 087": [
         "S",
         "M",
         "L",
@@ -87,7 +65,7 @@
         "5XL",
         "6XL"
     ],
-    "Summer Shark Артикул: TDT 087": [
+    "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
         "L",
@@ -153,6 +131,17 @@
         "5XL",
         "6XL"
     ],
+    "Old Salt Артикул: TDT 129": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Chilbigen Артикул: TDT 034": [
         "S",
         "M",
@@ -175,7 +164,7 @@
         "5XL",
         "6XL"
     ],
-    "Old Salt Артикул: TDT 129": [
+    "Funny Mushrooms Blue Артикул: TDT 049B": [
         "S",
         "M",
         "L",
@@ -197,18 +186,7 @@
         "5XL",
         "6XL"
     ],
-    "Stone Spider Артикул: TDT 124": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Funny Mushrooms Blue Артикул: TDT 049B": [
+    "Relaxed Bear Артикул: TDT 082": [
         "S",
         "M",
         "L",
@@ -220,6 +198,13 @@
         "6XL"
     ],
     "WeekEnd Артикул: TDT 047": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+    ],
+    "Chile Art Артикул: TDT 102": [
         "S",
         "M",
         "L",
