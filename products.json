@@ -10,6 +10,39 @@
         "5XL",
         "6XL"
     ],
+    "Relaxed Bear Артикул: TDT 082": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Australasia Артикул: TDT 053": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Chile Art Артикул: TDT 102": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Wood Goblin Артикул: TDT 118": [
         "S",
         "M",
@@ -43,6 +76,28 @@
         "5XL",
         "6XL"
     ],
+    "Original Siberia Артикул: TDT 140": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
+    "Brutal Kangaroo Артикул: TDT 017": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Oktoberfest Артикул: TDT 104": [
         "S",
         "M",
@@ -55,17 +110,6 @@
         "6XL"
     ],
     "Summer Shark Артикул: TDT 087": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Brutal Kangaroo Артикул: TDT 017": [
         "S",
         "M",
         "L",
@@ -131,6 +175,17 @@
         "5XL",
         "6XL"
     ],
+    "Chilbigen Артикул: TDT 034": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+    ],
     "Old Salt Артикул: TDT 129": [
         "S",
         "M",
@@ -142,7 +197,7 @@
         "5XL",
         "6XL"
     ],
-    "Chilbigen Артикул: TDT 034": [
+    "Vibe Артикул: TDT 052": [
         "S",
         "M",
         "L",
@@ -165,39 +220,6 @@
         "6XL"
     ],
     "Funny Mushrooms Blue Артикул: TDT 049B": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Vibe Артикул: TDT 052": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Relaxed Bear Артикул: TDT 082": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
-    "Chile Art Артикул: TDT 102": [
         "S",
         "M",
         "L",
@@ -259,19 +281,19 @@
         "2XL",
         "5XL"
     ],
-    "Troll Артикул: TDT 117": [
-        "M",
-        "3XL",
-        "4XL",
-        "5XL",
-        "6XL"
-    ],
     "WeekEnd Артикул: TDT 047": [
         "S",
         "M",
         "L",
         "XL",
         "2XL"
+    ],
+    "Troll Артикул: TDT 117": [
+        "M",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
     ],
     "Siberian Token Артикул: TDT 122": [
         "S",
